@@ -8,7 +8,7 @@ import pandas as pd
 def quick_summary():
     """Show quick summary of findings"""
     
-    df = pd.read_csv("../results/comprehensive_market_ownership_20250918_195445.csv")
+    df = pd.read_csv("comprehensive_market_ownership_20250918_195445.csv")
     
     print("🎯 QUICK SUMMARY: Institutional Market Dominance")
     print("=" * 55)

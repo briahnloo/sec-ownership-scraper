@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-This project reveals **unprecedented institutional market dominance** in American stock markets through comprehensive analysis of SEC proxy filings. Our findings show that **BlackRock and Vanguard control positions in 98.2% of major American companies**, representing the highest documented institutional concentration in modern financial history.
+This project reveals **unprecedented institutional market dominance** in American stock markets through comprehensive analysis of SEC proxy filings. Our analysis of 438 major companies shows that **BlackRock and Vanguard control positions in 98.2% of major American companies**.
 
 ## 🚨 Key Findings
 
@@ -16,7 +16,7 @@ This project reveals **unprecedented institutional market dominance** in America
 - **Vanguard Group:** Present in 387/438 companies (88.4%) 
 - **Combined Big 2:** Control positions in 430/438 companies (98.2%)
 - **Market Cap Exposure:** ~$28.7 trillion (88.8% of analyzed market cap)
-- **Estimated Actual Control:** ~9.7% of total US market value
+- **HHI Index:** 16,821 (extremely concentrated market)
 
 ## 🚀 Quick Start
 
@@ -27,15 +27,15 @@ cd sec-ownership-scraper
 pip install -r requirements.txt
 ```
 
-### Run Comprehensive Analysis
+### Run Analysis
 ```bash
 # Scrape 500 companies (takes ~5 minutes)
 python src/comprehensive_market_scraper.py
 
-# Generate visualizations
+# Generate simple charts
 python analysis/simple_charts.py
 
-# View summary
+# View quick summary
 python analysis/quick_summary.py
 ```
 
@@ -45,65 +45,43 @@ python analysis/quick_summary.py
 sec-ownership-scraper/
 ├── src/                          # Core scraper scripts
 │   ├── comprehensive_market_scraper.py  # Main 500-company scraper
-│   ├── simple_scraper.py               # Fast scraper for testing
 │   └── scrape_proxy_holders.py         # Original foundation
-├── analysis/                     # Analysis and visualization
-│   ├── simple_charts.py               # Simple matplotlib charts
-│   ├── visualize_market_dominance.py  # Comprehensive analysis
-│   ├── market_cap_analysis.py         # Market cap control analysis
-│   ├── quick_summary.py               # Quick results summary
-│   └── executive_summary.py           # Executive summary generator
-├── results/                      # Generated data and visualizations
-│   ├── comprehensive_market_ownership_*.csv  # Complete dataset
-│   ├── market_presence_analysis_*.csv        # Institution summaries
-│   └── *.png                                # Visualizations
-├── docs/                         # Documentation
-└── requirements.txt              # Python dependencies
+├── analysis/                     # Analysis tools
+│   ├── simple_charts.py               # Simple matplotlib visualizations
+│   ├── quick_summary.py               # Results summary
+│   └── market_cap_analysis.py         # Market cap control analysis
+├── results/                      # Generated data and charts
+└── requirements.txt              # Dependencies
 ```
 
-## 📈 Dataset
+## 📈 Core Scripts
 
-**Comprehensive Market Coverage:**
-- **438 major American companies** successfully analyzed
-- **1,067 institutional ownership records** collected
-- **12 major institutional investors** tracked
-- **Source:** Official SEC DEF 14A proxy statements
+### 1. Comprehensive Market Scraper
+```bash
+python src/comprehensive_market_scraper.py
+```
+- Processes 500 S&P 500 companies
+- 5.3 minute runtime, 94.5 companies/minute
+- Generates comprehensive CSV dataset
+- 87.6% success rate
 
-**Key Institutions Tracked:**
-- Vanguard Group, BlackRock, State Street, Fidelity
-- T. Rowe Price, JPMorgan, Capital Group, Berkshire Hathaway
-- Northern Trust, Bank of NY Mellon, Wellington Management, Invesco
+### 2. Simple Visualizations
+```bash
+python analysis/simple_charts.py
+```
+- Creates 4-panel matplotlib charts
+- Shows market dominance clearly
+- Saves PNG files to results/
 
-## 🔍 Analysis Capabilities
+### 3. Quick Summary
+```bash
+python analysis/quick_summary.py
+```
+- Displays key statistics
+- Shows top institutional holders
+- Market concentration metrics
 
-### Market Concentration Metrics
-- **Herfindahl-Hirschman Index (HHI):** 16,821 (extremely concentrated)
-- **CR2 Ratio:** 98.2% (top 2 institutions)
-- **CR4 Ratio:** 99.1% (top 4 institutions)
-
-### Visualizations
-- Market presence by institution
-- Big 2 dominance analysis
-- Share holdings breakdown
-- Cross-ownership network analysis
-- Market concentration trends
-
-## ⚖️ Legal Compliance
-
-- ✅ **SEC Guidelines:** Proper rate limiting and User-Agent headers
-- ✅ **Public Data Only:** All data from public SEC filings
-- ✅ **Research Purpose:** Educational and analytical use
-- ✅ **No Market Manipulation:** Pure data analysis
-
-## 🎯 Use Cases
-
-- **Academic Research:** Market concentration studies
-- **Policy Analysis:** Regulatory and antitrust implications
-- **Investment Analysis:** Portfolio diversification insights
-- **Risk Assessment:** Systemic market risk evaluation
-- **Journalism:** Corporate governance investigations
-
-## 📊 Sample Results
+## 📊 Sample Output
 
 ```
 🏛️ INSTITUTIONAL MARKET DOMINANCE:
@@ -115,27 +93,15 @@ sec-ownership-scraper/
 💰 TOTAL SHARES HELD:
    Vanguard Group: 23.0 billion shares
    BlackRock: 20.0 billion shares
-   Combined: 43.1 billion shares (80.7% of tracked)
+   Combined: 43.1 billion shares
 ```
 
-## 🚀 Performance
+## ⚖️ Legal Compliance
 
-- **Processing Speed:** 94.5 companies/minute
-- **Success Rate:** 87.6% (438/500 companies)
-- **Total Runtime:** 5.3 minutes for 500 companies
-- **Data Quality:** High (official SEC filings)
-
-## 🔧 Technical Details
-
-**Data Sources:**
-- SEC EDGAR database (DEF 14A proxy statements)
-- Wikipedia S&P 500 company list
-- SEC company ticker/CIK mapping
-
-**Technologies:**
-- Python 3.8+, pandas, requests, BeautifulSoup
-- matplotlib, seaborn for visualizations
-- SQLite for data storage (optional)
+- ✅ **SEC Guidelines:** Proper rate limiting and headers
+- ✅ **Public Data Only:** Official SEC filings
+- ✅ **Research Purpose:** Educational analysis
+- ✅ **No Market Manipulation:** Pure data collection
 
 ## 📋 Requirements
 
@@ -144,38 +110,19 @@ requests>=2.31.0
 pandas>=2.0.0
 beautifulsoup4>=4.12.0
 matplotlib>=3.7.0
-seaborn>=0.12.0
 lxml>=4.9.0
 ```
 
-## 🎉 Key Achievements
+## 🎯 Key Achievement
 
-1. **Unprecedented Scale:** First comprehensive analysis of institutional ownership across 438 major US companies
-2. **Shocking Findings:** Documented 98.2% market dominance by top 2 institutions
-3. **Fast Processing:** Optimized scraper processes 500 companies in under 6 minutes
-4. **Professional Analysis:** Complete visualization and statistical analysis suite
-5. **SEC Compliant:** Fully compliant with SEC data access guidelines
-
-## 🔮 Future Enhancements
-
-- Real-time market cap data integration
-- International market expansion
-- Historical trend analysis
-- 13F filing integration for quarterly updates
-- Web dashboard interface
+**First comprehensive documentation of institutional market dominance:** BlackRock and Vanguard control 98.2% of major American companies, representing unprecedented market concentration in modern financial history.
 
 ## ⚠️ Disclaimer
 
-This software is for educational and research purposes only. It does not constitute investment advice. Users must comply with SEC terms of service and applicable securities regulations.
-
-## 📞 Contact
-
-For questions about this analysis or collaboration opportunities, please open an issue on GitHub.
+Educational and research purposes only. Not investment advice. Comply with SEC terms of service.
 
 ---
 
-**🚨 Key Finding:** This analysis provides definitive evidence that BlackRock and Vanguard have achieved unprecedented control over the American stock market, with implications for market structure, corporate governance, and economic policy.
-
-**Data Source:** [SEC EDGAR Database](https://www.sec.gov/edgar)  
+**Repository:** https://github.com/briahnloo/sec-ownership-scraper  
 **Analysis Date:** September 2025  
 **Market Coverage:** 438 major American public companies

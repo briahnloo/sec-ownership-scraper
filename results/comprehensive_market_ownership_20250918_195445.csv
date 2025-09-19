@@ -1,0 +1,1068 @@
+ticker,company_name,holder_name,shares,percent_owned,filing_date
+MMM,3M,Vanguard Group,49080209.0,,2025-09-18
+MMM,3M,BlackRock,49080209.0,,2025-09-18
+MMM,3M,State Street,27686.0,,2025-09-18
+AOS,A. O. Smith,Vanguard Group,14253913.0,,2025-09-18
+AOS,A. O. Smith,BlackRock,10074034.0,11.6,2025-09-18
+AOS,A. O. Smith,State Street,7415770.0,,2025-09-18
+ABT,Abbott Laboratories,Vanguard Group,30106150.0,,2025-09-18
+ABT,Abbott Laboratories,BlackRock,30106150.0,,2025-09-18
+ABT,Abbott Laboratories,Northern Trust,30106150.0,,2025-09-18
+ABBV,AbbVie,Vanguard Group,160380057.0,28.8,2025-09-18
+ABBV,AbbVie,BlackRock,143180060.0,28.8,2025-09-18
+ACN,Accenture,Vanguard Group,59071878.0,,2025-09-18
+ACN,Accenture,BlackRock,47931575.0,,2025-09-18
+ADBE,Adobe Inc.,Vanguard Group,40262670.0,,2025-09-18
+ADBE,Adobe Inc.,BlackRock,37969080.0,,2025-09-18
+AMD,Advanced Micro Devices,Vanguard Group,142442745.0,,2025-09-18
+AMD,Advanced Micro Devices,BlackRock,124945206.0,8.8,2025-09-18
+AMD,Advanced Micro Devices,Capital Group,,5.0,2025-09-18
+AFL,Aflac,Vanguard Group,52438841.0,,2025-09-18
+AFL,Aflac,BlackRock,42164887.0,,2025-09-18
+A,Agilent Technologies,Vanguard Group,33446526.0,,2025-09-18
+A,Agilent Technologies,BlackRock,27257254.0,,2025-09-18
+A,Agilent Technologies,Fidelity,,3.333,2025-09-18
+APD,Air Products,Vanguard Group,164227.0,1.0,2025-09-18
+APD,Air Products,BlackRock,20763782.0,1.0,2025-09-18
+APD,Air Products,Fidelity,,1.0,2025-09-18
+AKAM,Akamai Technologies,BlackRock,,11.7,2025-09-18
+ALB,Albemarle Corporation,Vanguard Group,14083522.0,,2025-09-18
+ALGN,Align Technology,Vanguard Group,8349611.0,,2025-09-18
+ALGN,Align Technology,BlackRock,8349611.0,,2025-09-18
+ALLE,Allegion,Vanguard Group,10620385.0,,2025-09-18
+ALLE,Allegion,BlackRock,8046943.0,,2025-09-18
+LNT,Alliant Energy,BlackRock,32094212.0,,2025-09-18
+LNT,Alliant Energy,State Street,23143382.0,,2025-09-18
+ALL,Allstate,Vanguard Group,32184316.0,,2025-09-18
+ALL,Allstate,BlackRock,22236119.0,,2025-09-18
+GOOGL,Alphabet Inc. (Class A),Vanguard Group,47472677.0,,2025-09-18
+GOOGL,Alphabet Inc. (Class A),BlackRock,415076460.0,35.0,2025-09-18
+GOOG,Alphabet Inc. (Class C),Vanguard Group,47472677.0,,2025-09-18
+GOOG,Alphabet Inc. (Class C),BlackRock,415076460.0,35.0,2025-09-18
+MO,Altria,Vanguard Group,159701169.0,12.64,2025-09-18
+MO,Altria,BlackRock,126395276.0,12.64,2025-09-18
+AMZN,Amazon,Vanguard Group,771052550.0,,2025-09-18
+AMZN,Amazon,BlackRock,630188686.0,,2025-09-18
+AMCR,Amcor,Vanguard Group,,8.2,2025-09-18
+AEP,American Electric Power,Vanguard Group,49224906.0,,2025-09-18
+AEP,American Electric Power,BlackRock,44982057.0,,2025-09-18
+AEP,American Electric Power,State Street,28190434.0,,2025-09-18
+AXP,American Express,BlackRock,44114286.0,,2025-09-18
+AIG,American International Group,Vanguard Group,41770175.0,,2025-09-18
+AIG,American International Group,BlackRock,62640753.0,,2025-09-18
+AIG,American International Group,Capital Group,62640753.0,,2025-09-18
+AMT,American Tower,Vanguard Group,61022228.0,,2025-09-18
+AMT,American Tower,BlackRock,43047962.0,,2025-09-18
+AWK,American Water Works,BlackRock,24022075.0,12.3,2025-09-18
+AWK,American Water Works,State Street,19762045.0,10.1,2025-09-18
+AMP,Ameriprise Financial,Vanguard Group,13005378.0,,2025-09-18
+AMP,Ameriprise Financial,BlackRock,9121526.0,,2025-09-18
+AME,Ametek,Vanguard Group,25576892.0,,2025-09-18
+AME,Ametek,BlackRock,25576892.0,,2025-09-18
+APH,Amphenol,Vanguard Group,146270744.0,,2025-09-18
+APH,Amphenol,BlackRock,97700524.0,,2025-09-18
+APH,Amphenol,Fidelity,111775074.0,,2025-09-18
+ADI,Analog Devices,Vanguard Group,496107497.0,,2025-09-18
+AON,Aon plc,Vanguard Group,17596572.0,,2025-09-18
+APO,Apollo Global Management,Vanguard Group,34313690.0,,2025-09-18
+APO,Apollo Global Management,BlackRock,41038114.0,,2025-09-18
+APO,Apollo Global Management,T. Rowe Price,,4.0,2025-09-18
+AAPL,Apple Inc.,Vanguard Group,19912339.0,1.0,2025-09-18
+AMAT,Applied Materials,Vanguard Group,74116511.0,9.47,2025-09-18
+AMAT,Applied Materials,BlackRock,76811130.0,,2025-09-18
+ADM,Archer Daniels Midland,Vanguard Group,61652597.0,,2025-09-18
+ADM,Archer Daniels Midland,BlackRock,45312186.0,,2025-09-18
+ADM,Archer Daniels Midland,State Street,33506142.0,,2025-09-18
+ANET,Arista Networks,Vanguard Group,95090956.0,,2025-09-18
+ANET,Arista Networks,BlackRock,73684608.0,,2025-09-18
+AIZ,Assurant,Vanguard Group,6806278.0,,2025-09-18
+AIZ,Assurant,BlackRock,6806278.0,,2025-09-18
+AIZ,Assurant,T. Rowe Price,5387911.0,,2025-09-18
+AIZ,Assurant,Bank of New York Mellon,5137922.0,,2025-09-18
+T,AT&T,Vanguard Group,622382246.0,,2025-09-18
+T,AT&T,BlackRock,533538337.0,,2025-09-18
+ATO,Atmos Energy,Vanguard Group,19344837.0,,2025-09-18
+ATO,Atmos Energy,BlackRock,12840023.0,,2025-09-18
+ATO,Atmos Energy,T. Rowe Price,8740344.0,,2025-09-18
+ADSK,Autodesk,Vanguard Group,19038582.0,,2025-09-18
+ADSK,Autodesk,BlackRock,19233480.0,,2025-09-18
+ADP,Automatic Data Processing,Vanguard Group,75200232.0,,2025-09-18
+ADP,Automatic Data Processing,BlackRock,75200232.0,,2025-09-18
+AZO,AutoZone,Vanguard Group,1764550.0,11.93,2025-09-18
+AZO,AutoZone,BlackRock,1247581.0,2.39,2025-09-18
+AZO,AutoZone,JPMorgan,1341924.0,2.39,2025-09-18
+AVB,AvalonBay Communities,Vanguard Group,639720.0,2.28,2025-09-18
+AVB,AvalonBay Communities,BlackRock,22594379.0,2.28,2025-09-18
+AVB,AvalonBay Communities,State Street,9927040.0,2.28,2025-09-18
+AVB,AvalonBay Communities,T. Rowe Price,,3.03,2025-09-18
+AVY,Avery Dennison,Vanguard Group,9623611.0,,2025-09-18
+AVY,Avery Dennison,BlackRock,6640110.0,3.0,2025-09-18
+AVY,Avery Dennison,Fidelity,,4.0,2025-09-18
+AVY,Avery Dennison,T. Rowe Price,7381914.0,,2025-09-18
+AXON,Axon Enterprise,Vanguard Group,,9.5,2025-09-18
+BKR,Baker Hughes,Vanguard Group,121897643.0,,2025-09-18
+BKR,Baker Hughes,BlackRock,,12.31,2025-09-18
+BKR,Baker Hughes,State Street,,8.33,2025-09-18
+BKR,Baker Hughes,JPMorgan,,10.19,2025-09-18
+BALL,Ball Corporation,Vanguard Group,35587833.0,,2025-09-18
+BALL,Ball Corporation,BlackRock,22543154.0,,2025-09-18
+BALL,Ball Corporation,T. Rowe Price,14914855.0,,2025-09-18
+BAC,Bank of America,Vanguard Group,,5.0,2025-09-18
+BAC,Bank of America,BlackRock,,5.0,2025-09-18
+BAC,Bank of America,Berkshire Hathaway,,5.0,2025-09-18
+BDX,Becton Dickinson,Vanguard Group,26558764.0,,2025-09-18
+BDX,Becton Dickinson,BlackRock,22270927.0,,2025-09-18
+BRK-B,Berkshire Hathaway,Vanguard Group,33517.0,6.1,2025-09-18
+BRK-B,Berkshire Hathaway,BlackRock,33517.0,4.0,2025-09-18
+BRK-B,Berkshire Hathaway,State Street,110403130.0,6.1,2025-09-18
+BRK-B,Berkshire Hathaway,Fidelity,33517.0,,2025-09-18
+BBY,Best Buy,Vanguard Group,23087381.0,10.98,2025-09-18
+BBY,Best Buy,BlackRock,,7.54,2025-09-18
+BBY,Best Buy,State Street,,10.86,2025-09-18
+BBY,Best Buy,T. Rowe Price,,11.71,2025-09-18
+TECH,Bio-Techne,Vanguard Group,75174.0,,2025-09-18
+TECH,Bio-Techne,BlackRock,18114891.0,1.0,2025-09-18
+TECH,Bio-Techne,T. Rowe Price,99100102.0,,2025-09-18
+BIIB,Biogen,Vanguard Group,16677806.0,,2025-09-18
+BIIB,Biogen,BlackRock,12506681.0,11.2,2025-09-18
+BIIB,Biogen,State Street,7346505.0,8.5,2025-09-18
+BLK,BlackRock,Vanguard Group,12890008.0,,2025-09-18
+BK,BNY Mellon,Vanguard Group,120000.0,5.0,2025-09-18
+BK,BNY Mellon,BlackRock,120000.0,5.0,2025-09-18
+BK,BNY Mellon,Bank of New York Mellon,,2.0,2025-09-18
+BA,Boeing,Vanguard Group,,1.0,2025-09-18
+BA,Boeing,BlackRock,,5.0,2025-09-18
+BA,Boeing,Capital Group,,5.0,2025-09-18
+BKNG,Booking Holdings,Vanguard Group,159186225.0,9.0,2025-09-18
+BKNG,Booking Holdings,BlackRock,118190.0,,2025-09-18
+BSX,Boston Scientific,Vanguard Group,125449595.0,,2025-09-18
+BSX,Boston Scientific,BlackRock,127036665.0,,2025-09-18
+BSX,Boston Scientific,Fidelity,139602739.0,,2025-09-18
+BMY,Bristol Myers Squibb,Vanguard Group,120000.0,,2025-09-18
+BMY,Bristol Myers Squibb,BlackRock,120000.0,,2025-09-18
+AVGO,Broadcom,Vanguard Group,468544898.0,,2025-09-18
+AVGO,Broadcom,BlackRock,347023720.0,,2025-09-18
+BR,Broadridge Financial Solutions,Vanguard Group,13950662.0,,2025-09-18
+BR,Broadridge Financial Solutions,BlackRock,9754088.0,11.95,2025-09-18
+BRO,Brown & Brown,Vanguard Group,28695553.0,,2025-09-18
+BRO,Brown & Brown,BlackRock,16347696.0,,2025-09-18
+BLDR,Builders FirstSource,BlackRock,9982324.0,,2025-09-18
+BLDR,Builders FirstSource,Fidelity,11431489.0,,2025-09-18
+BLDR,Builders FirstSource,Capital Group,,2.0,2025-09-18
+BG,Bunge Global,Vanguard Group,18954832.0,,2025-09-18
+BG,Bunge Global,BlackRock,14532067.0,,2025-09-18
+BG,Bunge Global,State Street,7023989.0,,2025-09-18
+BXP,"BXP, Inc.",Vanguard Group,23446379.0,,2025-09-18
+BXP,"BXP, Inc.",BlackRock,18575604.0,,2025-09-18
+BXP,"BXP, Inc.",State Street,12135782.0,,2025-09-18
+CHRW,C.H. Robinson,Vanguard Group,14038049.0,,2025-09-18
+CHRW,C.H. Robinson,BlackRock,10580558.0,,2025-09-18
+CDNS,Cadence Design Systems,Vanguard Group,24503387.0,,2025-09-18
+CDNS,Cadence Design Systems,BlackRock,30577232.0,,2025-09-18
+CZR,Caesars Entertainment,Vanguard Group,23364859.0,,2025-09-18
+CZR,Caesars Entertainment,BlackRock,15216644.0,9.3,2025-09-18
+CZR,Caesars Entertainment,Capital Group,19811919.0,11.0,2025-09-18
+CPT,Camden Property Trust,Vanguard Group,17002453.0,,2025-09-18
+CPT,Camden Property Trust,BlackRock,17002453.0,,2025-09-18
+CPT,Camden Property Trust,State Street,11490739.0,,2025-09-18
+CPB,Campbell's Company (The),Vanguard Group,53292264.0,1.0,2025-09-18
+CPB,Campbell's Company (The),BlackRock,23436036.0,1.0,2025-09-18
+COF,Capital One,BlackRock,24741893.0,,2025-09-18
+COF,Capital One,T. Rowe Price,91033264.0,,2025-09-18
+CAH,Cardinal Health,Vanguard Group,31266013.0,,2025-09-18
+CAH,Cardinal Health,State Street,14540655.0,,2025-09-18
+KMX,CarMax,Vanguard Group,18076909.0,,2025-09-18
+KMX,CarMax,BlackRock,18076909.0,,2025-09-18
+CCL,Carnival,Vanguard Group,113163718.0,,2025-09-18
+CCL,Carnival,BlackRock,65117160.0,,2025-09-18
+CCL,Carnival,Northern Trust,80736445.0,,2025-09-18
+CARR,Carrier Global,Vanguard Group,93816461.0,,2025-09-18
+CARR,Carrier Global,BlackRock,55209169.0,,2025-09-18
+CARR,Carrier Global,Capital Group,75499505.0,,2025-09-18
+CAT,Caterpillar Inc.,Vanguard Group,37722884.0,,2025-09-18
+CAT,Caterpillar Inc.,BlackRock,235235236.0,34.0,2025-09-18
+CAT,Caterpillar Inc.,State Street,235235236.0,8.0,2025-09-18
+CBOE,Cboe Global Markets,Vanguard Group,12688861.0,,2025-09-18
+CBRE,CBRE Group,Vanguard Group,47591006.0,,2025-09-18
+CBRE,CBRE Group,BlackRock,28009132.0,,2025-09-18
+CDW,CDW Corporation,Vanguard Group,236236236.0,6.0,2025-09-18
+CDW,CDW Corporation,BlackRock,15693102.0,,2025-09-18
+CDW,CDW Corporation,JPMorgan,197197197.0,38.0,2025-09-18
+COR,Cencora,Vanguard Group,19980000.0,,2025-09-18
+COR,Cencora,BlackRock,20510739.0,,2025-09-18
+CNC,Centene Corporation,Vanguard Group,61190588.0,,2025-09-18
+CNC,Centene Corporation,BlackRock,61190588.0,,2025-09-18
+CNP,CenterPoint Energy,T. Rowe Price,44731705.0,,2025-09-18
+CF,CF Industries,Vanguard Group,24066823.0,7.5,2025-09-18
+CF,CF Industries,BlackRock,15678649.0,,2025-09-18
+CF,CF Industries,Fidelity,8830613.0,9.4,2025-09-18
+CF,CF Industries,T. Rowe Price,12502578.0,5.3,2025-09-18
+CRL,Charles River Laboratories,Vanguard Group,5980236.0,,2025-09-18
+CRL,Charles River Laboratories,BlackRock,4238497.0,,2025-09-18
+CRL,Charles River Laboratories,Wellington Management,3740768.0,,2025-09-18
+SCHW,Charles Schwab Corporation,Vanguard Group,119918442.0,,2025-09-18
+SCHW,Charles Schwab Corporation,BlackRock,96697577.0,5.8,2025-09-18
+CHTR,Charter Communications,Vanguard Group,,6.39,2025-09-18
+CVX,Chevron Corporation,Vanguard Group,161516631.0,8.7,2025-09-18
+CVX,Chevron Corporation,BlackRock,131461833.0,8.56,2025-09-18
+CVX,Chevron Corporation,State Street,159117156.0,,2025-09-18
+CVX,Chevron Corporation,Berkshire Hathaway,126093326.0,7.0,2025-09-18
+CMG,Chipotle Mexican Grill,Vanguard Group,120729810.0,,2025-09-18
+CMG,Chipotle Mexican Grill,BlackRock,101722000.0,8.91,2025-09-18
+CMG,Chipotle Mexican Grill,T. Rowe Price,,44.0,2025-09-18
+CMG,Chipotle Mexican Grill,Capital Group,,44.0,2025-09-18
+CMG,Chipotle Mexican Grill,Bank of New York Mellon,,44.0,2025-09-18
+CB,Chubb Limited,Vanguard Group,38930986.0,,2025-09-18
+CB,Chubb Limited,BlackRock,,19.0,2025-09-18
+CB,Chubb Limited,T. Rowe Price,328000.0,11.0,2025-09-18
+CB,Chubb Limited,Berkshire Hathaway,27033784.0,7.4,2025-09-18
+CHD,Church & Dwight,Vanguard Group,30264910.0,,2025-09-18
+CHD,Church & Dwight,BlackRock,21993660.0,,2025-09-18
+CHD,Church & Dwight,State Street,12722021.0,,2025-09-18
+CHD,Church & Dwight,JPMorgan,,7.0,2025-09-18
+CINF,Cincinnati Financial,Vanguard Group,19174221.0,,2025-09-18
+CTAS,Cintas,Vanguard Group,57662934.0,,2025-09-18
+CTAS,Cintas,BlackRock,41197032.0,,2025-09-18
+C,Citigroup,Vanguard Group,,7.0,2025-09-18
+C,Citigroup,BlackRock,,7.0,2025-09-18
+C,Citigroup,JPMorgan,173238.0,,2025-09-18
+CFG,Citizens Financial Group,Vanguard Group,200000.0,,2025-09-18
+CFG,Citizens Financial Group,Invesco,200000.0,,2025-09-18
+CLX,Clorox,Vanguard Group,213239252.0,,2025-09-18
+CLX,Clorox,BlackRock,15228898.0,,2025-09-18
+CLX,Clorox,State Street,213239252.0,,2025-09-18
+CME,CME Group,Vanguard Group,33450782.0,,2025-09-18
+CME,CME Group,BlackRock,28863305.0,,2025-09-18
+CMS,CMS Energy,BlackRock,1376404.0,,2025-09-18
+CMS,CMS Energy,State Street,153866.0,,2025-09-18
+KO,Coca-Cola Company (The),Vanguard Group,370726586.0,13.85,2025-09-18
+KO,Coca-Cola Company (The),BlackRock,313228689.0,13.85,2025-09-18
+CTSH,Cognizant,Vanguard Group,,5.0,2025-09-18
+CTSH,Cognizant,BlackRock,,5.0,2025-09-18
+CTSH,Cognizant,State Street,,5.0,2025-09-18
+CTSH,Cognizant,T. Rowe Price,230231232.0,,2025-09-18
+CTSH,Cognizant,Bank of New York Mellon,230231232.0,,2025-09-18
+COIN,Coinbase,Vanguard Group,18290278.0,,2025-09-18
+COIN,Coinbase,BlackRock,11470846.0,,2025-09-18
+CL,Colgate-Palmolive,Vanguard Group,82189533.0,15.0,2025-09-18
+CL,Colgate-Palmolive,BlackRock,65563643.0,,2025-09-18
+CL,Colgate-Palmolive,State Street,47641721.0,,2025-09-18
+CMCSA,Comcast,Vanguard Group,220221222.0,,2025-09-18
+CMCSA,Comcast,BlackRock,220221222.0,9.4,2025-09-18
+CAG,Conagra Brands,Vanguard Group,57390391.0,2.41,2025-09-18
+CAG,Conagra Brands,BlackRock,48467252.0,2.41,2025-09-18
+CAG,Conagra Brands,State Street,24486218.0,2.41,2025-09-18
+COP,ConocoPhillips,Vanguard Group,60166.0,5.0,2025-09-18
+COP,ConocoPhillips,BlackRock,98276158.0,6.0,2025-09-18
+COP,ConocoPhillips,State Street,71554551.0,7.7,2025-09-18
+ED,Consolidated Edison,Vanguard Group,41840474.0,,2025-09-18
+ED,Consolidated Edison,BlackRock,41466967.0,,2025-09-18
+ED,Consolidated Edison,State Street,26140772.0,,2025-09-18
+STZ,Constellation Brands,Vanguard Group,184925.0,,2025-09-18
+STZ,Constellation Brands,BlackRock,9762792.0,,2025-09-18
+STZ,Constellation Brands,Berkshire Hathaway,12009000.0,,2025-09-18
+CEG,Constellation Energy,Vanguard Group,36651641.0,13.0,2025-09-18
+CEG,Constellation Energy,BlackRock,28491444.0,9.1,2025-09-18
+CEG,Constellation Energy,State Street,22564120.0,7.2,2025-09-18
+COO,Cooper Companies (The),Vanguard Group,5732258.0,,2025-09-18
+COO,Cooper Companies (The),BlackRock,16667737.0,,2025-09-18
+CPRT,Copart,Vanguard Group,99099835.0,,2025-09-18
+CPRT,Copart,BlackRock,99099835.0,10.29,2025-09-18
+GLW,Corning Inc.,Vanguard Group,,1.0,2025-09-18
+GLW,Corning Inc.,Bank of New York Mellon,14917.0,0.5,2025-09-18
+CSGP,CoStar Group,Vanguard Group,64909699.0,,2025-09-18
+CSGP,CoStar Group,BlackRock,31820259.0,,2025-09-18
+COST,Costco,Vanguard Group,41746567.0,,2025-09-18
+COST,Costco,BlackRock,33555577.0,,2025-09-18
+CTRA,Coterra,Vanguard Group,87926567.0,,2025-09-18
+CTRA,Coterra,BlackRock,60876106.0,,2025-09-18
+CTRA,Coterra,Wellington Management,81616193.0,,2025-09-18
+CRWD,CrowdStrike,Vanguard Group,21583617.0,,2025-09-18
+CRWD,CrowdStrike,BlackRock,16954069.0,,2025-09-18
+CCI,Crown Castle,Vanguard Group,62499322.0,,2025-09-18
+CCI,Crown Castle,BlackRock,44524068.0,,2025-09-18
+CSX,CSX Corporation,Vanguard Group,174948647.0,,2025-09-18
+CSX,CSX Corporation,BlackRock,142632196.0,,2025-09-18
+CSX,CSX Corporation,JPMorgan,106679163.0,,2025-09-18
+CMI,Cummins,Vanguard Group,17754995.0,,2025-09-18
+CMI,Cummins,BlackRock,11524411.0,12.9,2025-09-18
+CVS,CVS Health,Vanguard Group,110111114.0,41.0,2025-09-18
+CVS,CVS Health,BlackRock,110111114.0,16.0,2025-09-18
+CVS,CVS Health,Bank of New York Mellon,1262383827.0,,2025-09-18
+DHR,Danaher Corporation,Vanguard Group,24855.0,,2025-09-18
+DRI,Darden Restaurants,Vanguard Group,13985178.0,,2025-09-18
+DRI,Darden Restaurants,BlackRock,8327417.0,,2025-09-18
+DDOG,Datadog,Vanguard Group,27259296.0,,2025-09-18
+DDOG,Datadog,BlackRock,19532115.0,,2025-09-18
+DVA,DaVita,Vanguard Group,142479.0,,2025-09-18
+DVA,DaVita,BlackRock,4275385.0,,2025-09-18
+DVA,DaVita,Berkshire Hathaway,35142479.0,,2025-09-18
+DAY,Dayforce,Vanguard Group,18103680.0,,2025-09-18
+DAY,Dayforce,BlackRock,11400740.0,,2025-09-18
+DAY,Dayforce,T. Rowe Price,16822824.0,,2025-09-18
+DAY,Dayforce,Capital Group,18157165.0,,2025-09-18
+DECK,Deckers Brands,Vanguard Group,17538564.0,,2025-09-18
+DECK,Deckers Brands,BlackRock,14360492.0,,2025-09-18
+DE,Deere & Company,Vanguard Group,,11.65,2025-09-18
+DE,Deere & Company,BlackRock,,11.65,2025-09-18
+DAL,Delta Air Lines,Vanguard Group,71974852.0,3.0,2025-09-18
+DAL,Delta Air Lines,BlackRock,59106.0,6.6,2025-09-18
+DVN,Devon Energy,BlackRock,51995001.0,,2025-09-18
+DXCM,Dexcom,Vanguard Group,44467151.0,,2025-09-18
+DXCM,Dexcom,BlackRock,40451057.0,,2025-09-18
+FANG,Diamondback Energy,Vanguard Group,168169172.0,34.58,2025-09-18
+FANG,Diamondback Energy,BlackRock,168169172.0,7.98,2025-09-18
+DLR,Digital Realty,Vanguard Group,51453186.0,15.3,2025-09-18
+DLR,Digital Realty,BlackRock,51453186.0,15.3,2025-09-18
+DLR,Digital Realty,State Street,21758462.0,6.5,2025-09-18
+DG,Dollar General,Vanguard Group,25071171.0,,2025-09-18
+DG,Dollar General,BlackRock,19372663.0,,2025-09-18
+DLTR,Dollar Tree,Vanguard Group,23798675.0,,2025-09-18
+DLTR,Dollar Tree,BlackRock,15420175.0,11.3,2025-09-18
+D,Dominion Energy,Vanguard Group,,5.0,2025-09-18
+D,Dominion Energy,BlackRock,,5.0,2025-09-18
+DPZ,Domino's,Vanguard Group,3875715.0,,2025-09-18
+DPZ,Domino's,BlackRock,2892693.0,,2025-09-18
+DPZ,Domino's,T. Rowe Price,2622916.0,,2025-09-18
+DPZ,Domino's,Berkshire Hathaway,2382000.0,,2025-09-18
+DPZ,Domino's,Bank of New York Mellon,,4.0,2025-09-18
+DASH,DoorDash,Vanguard Group,29303496.0,,2025-09-18
+DOV,Dover Corporation,Vanguard Group,,7.2,2025-09-18
+DOV,Dover Corporation,BlackRock,,7.1,2025-09-18
+DOV,Dover Corporation,JPMorgan,,7.1,2025-09-18
+DHI,D. R. Horton,Vanguard Group,34856397.0,,2025-09-18
+DHI,D. R. Horton,BlackRock,33689651.0,,2025-09-18
+DTE,DTE Energy,Vanguard Group,25058157.0,,2025-09-18
+DTE,DTE Energy,BlackRock,17317065.0,12.2,2025-09-18
+DTE,DTE Energy,Capital Group,18869428.0,8.4,2025-09-18
+DUK,Duke Energy,BlackRock,58022212.0,,2025-09-18
+DD,DuPont,Vanguard Group,48043862.0,,2025-09-18
+DD,DuPont,BlackRock,30389248.0,11.48,2025-09-18
+EMN,Eastman Chemical Company,Vanguard Group,14839678.0,,2025-09-18
+EMN,Eastman Chemical Company,BlackRock,8383444.0,,2025-09-18
+EMN,Eastman Chemical Company,Capital Group,5886564.0,,2025-09-18
+ETN,Eaton Corporation,Vanguard Group,199200202.0,5.0,2025-09-18
+ETN,Eaton Corporation,BlackRock,199200202.0,9.34,2025-09-18
+EBAY,eBay Inc.,BlackRock,43874025.0,,2025-09-18
+EBAY,eBay Inc.,State Street,24437654.0,,2025-09-18
+EIX,Edison International,BlackRock,,12.04,2025-09-18
+EIX,Edison International,State Street,,12.04,2025-09-18
+EW,Edwards Lifesciences,Vanguard Group,69131602.0,,2025-09-18
+EW,Edwards Lifesciences,BlackRock,724951.0,,2025-09-18
+EW,Edwards Lifesciences,Wellington Management,52171889.0,,2025-09-18
+EA,Electronic Arts,Vanguard Group,97199.0,2.0,2025-09-18
+EA,Electronic Arts,BlackRock,129130132.0,9.87,2025-09-18
+EA,Electronic Arts,State Street,129130132.0,8.91,2025-09-18
+ELV,Elevance Health,Vanguard Group,21227022.0,,2025-09-18
+ELV,Elevance Health,BlackRock,21044185.0,,2025-09-18
+EMR,Emerson Electric,Vanguard Group,52218224.0,,2025-09-18
+EMR,Emerson Electric,BlackRock,52218224.0,,2025-09-18
+ENPH,Enphase Energy,Vanguard Group,15861941.0,,2025-09-18
+ENPH,Enphase Energy,BlackRock,15861941.0,,2025-09-18
+ETR,Entergy,BlackRock,51966408.0,,2025-09-18
+ETR,Entergy,State Street,41778498.0,,2025-09-18
+EOG,EOG Resources,BlackRock,,7.86,2025-09-18
+EOG,EOG Resources,State Street,,7.35,2025-09-18
+EOG,EOG Resources,Capital Group,,6.36,2025-09-18
+EPAM,EPAM Systems,Vanguard Group,6825589.0,,2025-09-18
+EPAM,EPAM Systems,BlackRock,4722559.0,11.83,2025-09-18
+EQT,EQT Corporation,Vanguard Group,46922537.0,,2025-09-18
+EQT,EQT Corporation,BlackRock,32452907.0,,2025-09-18
+EQT,EQT Corporation,State Street,35206405.0,,2025-09-18
+EQT,EQT Corporation,T. Rowe Price,42589209.0,,2025-09-18
+EQT,EQT Corporation,Wellington Management,51897572.0,,2025-09-18
+EFX,Equifax,BlackRock,,7.3,2025-09-18
+EQIX,Equinix,Vanguard Group,24402.0,,2025-09-18
+EQIX,Equinix,BlackRock,477476.0,,2025-09-18
+EQIX,Equinix,State Street,9733894.0,,2025-09-18
+EQR,Equity Residential,Vanguard Group,56940042.0,,2025-09-18
+EQR,Equity Residential,BlackRock,41535224.0,,2025-09-18
+EQR,Equity Residential,State Street,25229550.0,,2025-09-18
+ESS,Essex Property Trust,Vanguard Group,10216493.0,2.31,2025-09-18
+ESS,Essex Property Trust,BlackRock,6467763.0,2.31,2025-09-18
+ESS,Essex Property Trust,State Street,5172350.0,2.31,2025-09-18
+EL,Estée Lauder Companies (The),Vanguard Group,19435945.0,,2025-09-18
+EG,Everest Group,BlackRock,,10.3,2025-09-18
+EVRG,Evergy,Vanguard Group,392357.0,,2025-09-18
+EVRG,Evergy,BlackRock,,13.4,2025-09-18
+EVRG,Evergy,State Street,,7.5,2025-09-18
+ES,Eversource Energy,Vanguard Group,44609716.0,,2025-09-18
+ES,Eversource Energy,BlackRock,38003921.0,,2025-09-18
+EXE,Expand Energy,Vanguard Group,26702490.0,,2025-09-18
+EXE,Expand Energy,BlackRock,26702490.0,,2025-09-18
+EXE,Expand Energy,T. Rowe Price,26702490.0,,2025-09-18
+EXPE,Expedia Group,Vanguard Group,15466475.0,,2025-09-18
+EXPE,Expedia Group,BlackRock,9943796.0,,2025-09-18
+EXPD,Expeditors International,Vanguard Group,16875774.0,,2025-09-18
+EXPD,Expeditors International,BlackRock,15493989.0,12.23,2025-09-18
+EXPD,Expeditors International,State Street,7476344.0,11.23,2025-09-18
+EXR,Extra Space Storage,Vanguard Group,33516009.0,,2025-09-18
+EXR,Extra Space Storage,BlackRock,33516009.0,,2025-09-18
+EXR,Extra Space Storage,State Street,21260908.0,,2025-09-18
+XOM,ExxonMobil,Vanguard Group,436662435.0,,2025-09-18
+XOM,ExxonMobil,BlackRock,436662435.0,10.1,2025-09-18
+FFIV,"F5, Inc.",Vanguard Group,7435868.0,10.67,2025-09-18
+FFIV,"F5, Inc.",BlackRock,6189770.0,,2025-09-18
+FFIV,"F5, Inc.",State Street,3102464.0,9.46,2025-09-18
+FDS,FactSet,Vanguard Group,4559571.0,,2025-09-18
+FDS,FactSet,BlackRock,,50.0,2025-09-18
+FDS,FactSet,State Street,2777627.0,,2025-09-18
+FDS,FactSet,Capital Group,3473642.0,,2025-09-18
+FICO,Fair Isaac,Vanguard Group,2820512.0,,2025-09-18
+FICO,Fair Isaac,BlackRock,2479028.0,11.41,2025-09-18
+FAST,Fastenal,Vanguard Group,70336580.0,,2025-09-18
+FAST,Fastenal,BlackRock,46066511.0,,2025-09-18
+FRT,Federal Realty Investment Trust,Vanguard Group,85780069.0,,2025-09-18
+FRT,Federal Realty Investment Trust,BlackRock,393136.0,,2025-09-18
+FRT,Federal Realty Investment Trust,State Street,7213760.0,,2025-09-18
+FRT,Federal Realty Investment Trust,JPMorgan,6112938.0,,2025-09-18
+FDX,FedEx,Vanguard Group,20483012.0,,2025-09-18
+FDX,FedEx,BlackRock,15498779.0,,2025-09-18
+FIS,Fidelity National Information Services,BlackRock,,13.2,2025-09-18
+FIS,Fidelity National Information Services,JPMorgan,,6.5,2025-09-18
+FIS,Fidelity National Information Services,Capital Group,,6.2,2025-09-18
+FITB,Fifth Third Bancorp,Vanguard Group,87331391.0,,2025-09-18
+FITB,Fifth Third Bancorp,BlackRock,56953542.0,,2025-09-18
+FSLR,First Solar,Vanguard Group,12151757.0,,2025-09-18
+FSLR,First Solar,BlackRock,11128120.0,,2025-09-18
+FE,FirstEnergy,Vanguard Group,64891959.0,,2025-09-18
+FI,Fiserv,T. Rowe Price,,7.1,2025-09-18
+F,Ford Motor Company,BlackRock,282647800.0,,2025-09-18
+BEN,Franklin Resources,Vanguard Group,32296534.0,18.7,2025-09-18
+BEN,Franklin Resources,BlackRock,29501986.0,6.0,2025-09-18
+FCX,Freeport-McMoRan,Vanguard Group,119487244.0,,2025-09-18
+FCX,Freeport-McMoRan,BlackRock,89623089.0,,2025-09-18
+FCX,Freeport-McMoRan,JPMorgan,185000.0,,2025-09-18
+GRMN,Garmin,Vanguard Group,15305863.0,9.0,2025-09-18
+GRMN,Garmin,BlackRock,15305863.0,5.0,2025-09-18
+IT,Gartner,Vanguard Group,1775355.0,,2025-09-18
+IT,Gartner,BlackRock,8913578.0,,2025-09-18
+IT,Gartner,Capital Group,6110636.0,,2025-09-18
+GE,GE Aerospace,Vanguard Group,86147.0,,2025-09-18
+GE,GE Aerospace,BlackRock,88439179.0,8.2,2025-09-18
+GE,GE Aerospace,Fidelity,82447476.0,7.7,2025-09-18
+GEHC,GE HealthCare,Vanguard Group,52535829.0,,2025-09-18
+GEHC,GE HealthCare,BlackRock,36271390.0,,2025-09-18
+GEHC,GE HealthCare,Capital Group,58223938.0,,2025-09-18
+GEV,GE Vernova,Vanguard Group,23958951.0,,2025-09-18
+GEV,GE Vernova,BlackRock,17964644.0,,2025-09-18
+GEV,GE Vernova,Fidelity,24012018.0,,2025-09-18
+GEN,Gen Digital,Vanguard Group,70109802.0,,2025-09-18
+GEN,Gen Digital,BlackRock,,11.4,2025-09-18
+GEN,Gen Digital,Fidelity,34353768.0,8.1,2025-09-18
+GNRC,Generac,Vanguard Group,6869513.0,,2025-09-18
+GNRC,Generac,BlackRock,3652509.0,,2025-09-18
+GD,General Dynamics,Vanguard Group,28097732.0,10.5,2025-09-18
+GD,General Dynamics,BlackRock,47135.0,,2025-09-18
+GIS,General Mills,Vanguard Group,2740372.0,,2025-09-18
+GIS,General Mills,BlackRock,55943321.0,,2025-09-18
+GIS,General Mills,State Street,50160.0,,2025-09-18
+GPC,Genuine Parts Company,Vanguard Group,7974228.0,,2025-09-18
+GPC,Genuine Parts Company,BlackRock,10598412.0,,2025-09-18
+GPC,Genuine Parts Company,State Street,7974228.0,,2025-09-18
+GILD,Gilead Sciences,Vanguard Group,158159162.0,9.86,2025-09-18
+GILD,Gilead Sciences,BlackRock,75132.0,,2025-09-18
+GILD,Gilead Sciences,JPMorgan,,20.0,2025-09-18
+GPN,Global Payments,BlackRock,17654029.0,,2025-09-18
+GL,Globe Life,Vanguard Group,10399696.0,,2025-09-18
+GL,Globe Life,BlackRock,10399696.0,,2025-09-18
+GL,Globe Life,Wellington Management,5959663.0,,2025-09-18
+GDDY,GoDaddy,Vanguard Group,13094682.0,,2025-09-18
+GDDY,GoDaddy,BlackRock,331183.0,,2025-09-18
+GS,Goldman Sachs,Vanguard Group,,5.0,2025-09-18
+GS,Goldman Sachs,State Street,,5.0,2025-09-18
+HAL,Halliburton,Vanguard Group,,6.16,2025-09-18
+HAL,Halliburton,State Street,,11.4,2025-09-18
+HIG,Hartford (The),Vanguard Group,38754269.0,,2025-09-18
+HIG,Hartford (The),BlackRock,38754269.0,,2025-09-18
+HIG,Hartford (The),State Street,29018062.0,,2025-09-18
+HIG,Hartford (The),Berkshire Hathaway,,50.0,2025-09-18
+HIG,Hartford (The),JPMorgan,,50.0,2025-09-18
+HAS,Hasbro,Vanguard Group,15763199.0,,2025-09-18
+HAS,Hasbro,BlackRock,15381255.0,11.1,2025-09-18
+HAS,Hasbro,Capital Group,15763199.0,11.3,2025-09-18
+HCA,HCA Healthcare,Vanguard Group,16929213.0,,2025-09-18
+HCA,HCA Healthcare,BlackRock,14531079.0,6.9,2025-09-18
+DOC,Healthpeak Properties,Vanguard Group,129130133.0,,2025-09-18
+DOC,Healthpeak Properties,BlackRock,129130133.0,8.0,2025-09-18
+DOC,Healthpeak Properties,State Street,129130133.0,,2025-09-18
+HSIC,Henry Schein,Vanguard Group,7586.0,,2025-09-18
+HSIC,Henry Schein,BlackRock,12016714.0,,2025-09-18
+HSY,Hershey Company (The),Vanguard Group,54612012.0,,2025-09-18
+HSY,Hershey Company (The),BlackRock,12264953.0,,2025-09-18
+HPE,Hewlett Packard Enterprise,Vanguard Group,156075192.0,,2025-09-18
+HPE,Hewlett Packard Enterprise,BlackRock,150359950.0,,2025-09-18
+HPE,Hewlett Packard Enterprise,State Street,129983458.0,,2025-09-18
+HLT,Hilton Worldwide,Vanguard Group,25386450.0,,2025-09-18
+HLT,Hilton Worldwide,BlackRock,25386450.0,,2025-09-18
+HOLX,Hologic,Vanguard Group,27678976.0,,2025-09-18
+HOLX,Hologic,BlackRock,24263694.0,12.3,2025-09-18
+HOLX,Hologic,T. Rowe Price,22137236.0,10.7,2025-09-18
+HD,Home Depot (The),Vanguard Group,94458737.0,,2025-09-18
+HD,Home Depot (The),BlackRock,71124615.0,,2025-09-18
+HON,Honeywell,Vanguard Group,61121019.0,,2025-09-18
+HON,Honeywell,BlackRock,42313312.0,,2025-09-18
+HRL,Hormel Foods,Vanguard Group,34806061.0,,2025-09-18
+HST,Host Hotels & Resorts,Vanguard Group,115394949.0,,2025-09-18
+HST,Host Hotels & Resorts,BlackRock,74128437.0,,2025-09-18
+HST,Host Hotels & Resorts,State Street,48780076.0,,2025-09-18
+HPQ,HP Inc.,Vanguard Group,130020271.0,,2025-09-18
+HPQ,HP Inc.,BlackRock,116940239.0,,2025-09-18
+HPQ,HP Inc.,State Street,51804957.0,,2025-09-18
+HUBB,Hubbell Incorporated,Vanguard Group,79136.0,15.0,2025-09-18
+HUBB,Hubbell Incorporated,BlackRock,79136.0,1.0,2025-09-18
+HUBB,Hubbell Incorporated,Bank of New York Mellon,79136.0,9.6,2025-09-18
+HUM,Humana,Vanguard Group,12829185.0,8.5,2025-09-18
+HUM,Humana,BlackRock,11689863.0,,2025-09-18
+HBAN,Huntington Bancshares,Vanguard Group,133166.0,1.0,2025-09-18
+HBAN,Huntington Bancshares,BlackRock,167169172.0,11.86,2025-09-18
+HBAN,Huntington Bancshares,State Street,167169172.0,6.9,2025-09-18
+HBAN,Huntington Bancshares,T. Rowe Price,167169172.0,9.1,2025-09-18
+HBAN,Huntington Bancshares,JPMorgan,169172.0,,2025-09-18
+HII,Huntington Ingalls Industries,Vanguard Group,5013651.0,,2025-09-18
+HII,Huntington Ingalls Industries,BlackRock,,5.0,2025-09-18
+HII,Huntington Ingalls Industries,Fidelity,3519110.0,,2025-09-18
+IBM,IBM,BlackRock,,10.03,2025-09-18
+IBM,IBM,State Street,,8.3,2025-09-18
+IEX,IDEX Corporation,Vanguard Group,9180201.0,12.14,2025-09-18
+IEX,IDEX Corporation,BlackRock,6068198.0,12.14,2025-09-18
+IEX,IDEX Corporation,Wellington Management,4219596.0,8.0,2025-09-18
+IDXX,Idexx Laboratories,Vanguard Group,9703237.0,,2025-09-18
+IDXX,Idexx Laboratories,BlackRock,9703237.0,,2025-09-18
+ITW,Illinois Tool Works,Vanguard Group,26158849.0,,2025-09-18
+ITW,Illinois Tool Works,BlackRock,21203045.0,,2025-09-18
+ITW,Illinois Tool Works,Northern Trust,,2.0,2025-09-18
+INCY,Incyte,Vanguard Group,22519381.0,,2025-09-18
+INCY,Incyte,BlackRock,17077446.0,,2025-09-18
+INCY,Incyte,State Street,10552047.0,,2025-09-18
+IR,Ingersoll Rand,Vanguard Group,45383585.0,,2025-09-18
+IR,Ingersoll Rand,BlackRock,28911292.0,10.8,2025-09-18
+IR,Ingersoll Rand,Capital Group,43304757.0,,2025-09-18
+PODD,Insulet Corporation,Vanguard Group,8029608.0,11.48,2025-09-18
+PODD,Insulet Corporation,BlackRock,6102546.0,,2025-09-18
+PODD,Insulet Corporation,Fidelity,190283.0,11.0,2025-09-18
+PODD,Insulet Corporation,Capital Group,7772404.0,8.7,2025-09-18
+INTC,Intel,Vanguard Group,385750808.0,,2025-09-18
+IBKR,Interactive Brokers,Vanguard Group,10333810.0,,2025-09-18
+IBKR,Interactive Brokers,BlackRock,10333810.0,,2025-09-18
+ICE,Intercontinental Exchange,Vanguard Group,47239612.0,,2025-09-18
+ICE,Intercontinental Exchange,BlackRock,49630242.0,,2025-09-18
+IFF,International Flavors & Fragrances,BlackRock,22473.0,9.9,2025-09-18
+IP,International Paper,Vanguard Group,47279517.0,,2025-09-18
+IP,International Paper,BlackRock,,5.0,2025-09-18
+IP,International Paper,State Street,622380.0,5.0,2025-09-18
+IP,International Paper,Fidelity,29904546.0,,2025-09-18
+IP,International Paper,T. Rowe Price,47279517.0,,2025-09-18
+IP,International Paper,Capital Group,35940218.0,,2025-09-18
+IPG,Interpublic Group of Companies (The),Vanguard Group,45801467.0,,2025-09-18
+IPG,Interpublic Group of Companies (The),BlackRock,39773831.0,,2025-09-18
+INTU,Intuit,Vanguard Group,25773948.0,,2025-09-18
+INTU,Intuit,BlackRock,23374934.0,,2025-09-18
+ISRG,Intuitive Surgical,Vanguard Group,32212196.0,,2025-09-18
+ISRG,Intuitive Surgical,BlackRock,31377331.0,,2025-09-18
+IVZ,Invesco,Vanguard Group,51454867.0,12.2,2025-09-18
+IVZ,Invesco,BlackRock,54672914.0,18.2,2025-09-18
+IQV,IQVIA,Vanguard Group,21077827.0,,2025-09-18
+IQV,IQVIA,BlackRock,15166087.0,,2025-09-18
+IRM,Iron Mountain,Vanguard Group,46275110.0,,2025-09-18
+JBHT,J.B. Hunt,Vanguard Group,18326504.0,32.0,2025-09-18
+JBHT,J.B. Hunt,BlackRock,9397670.0,32.0,2025-09-18
+JBL,Jabil,Vanguard Group,15070042.0,,2025-09-18
+JBL,Jabil,BlackRock,,13.49,2025-09-18
+JKHY,Jack Henry & Associates,Vanguard Group,8648967.0,,2025-09-18
+JKHY,Jack Henry & Associates,BlackRock,6201647.0,,2025-09-18
+J,Jacobs Solutions,Vanguard Group,14056587.0,,2025-09-18
+J,Jacobs Solutions,BlackRock,8078936.0,,2025-09-18
+J,Jacobs Solutions,State Street,7454610.0,,2025-09-18
+JCI,Johnson Controls,Vanguard Group,71385985.0,,2025-09-18
+JCI,Johnson Controls,BlackRock,45901815.0,,2025-09-18
+K,Kellanova,Vanguard Group,32150331.0,,2025-09-18
+K,Kellanova,BlackRock,29982413.0,,2025-09-18
+K,Kellanova,Northern Trust,57375129.0,,2025-09-18
+KDP,Keurig Dr Pepper,Vanguard Group,145012806.0,,2025-09-18
+KDP,Keurig Dr Pepper,BlackRock,102509918.0,,2025-09-18
+KDP,Keurig Dr Pepper,Fidelity,102509918.0,,2025-09-18
+KEY,KeyCorp,Vanguard Group,109871973.0,,2025-09-18
+KEY,KeyCorp,BlackRock,95884153.0,,2025-09-18
+KEYS,Keysight Technologies,BlackRock,120000.0,10.3,2025-09-18
+KEYS,Keysight Technologies,T. Rowe Price,,10.3,2025-09-18
+KMB,Kimberly-Clark,Vanguard Group,35133806.0,,2025-09-18
+KMB,Kimberly-Clark,BlackRock,31053858.0,,2025-09-18
+KIM,Kimco Realty,Vanguard Group,102336566.0,15.0,2025-09-18
+KIM,Kimco Realty,BlackRock,102336566.0,15.0,2025-09-18
+KIM,Kimco Realty,State Street,65062132.0,10.0,2025-09-18
+KMI,Kinder Morgan,Vanguard Group,282910791.0,,2025-09-18
+KMI,Kinder Morgan,BlackRock,201371965.0,,2025-09-18
+KMI,Kinder Morgan,State Street,153167516.0,,2025-09-18
+KKR,KKR & Co.,Fidelity,,1.0,2025-09-18
+KLAC,KLA Corporation,BlackRock,,9.7,2025-09-18
+KLAC,KLA Corporation,T. Rowe Price,,4.36,2025-09-18
+KHC,Kraft Heinz,Vanguard Group,204204204.0,7.6,2025-09-18
+KHC,Kraft Heinz,BlackRock,325442152.0,,2025-09-18
+KR,Kroger,Vanguard Group,67356305.0,9.3,2025-09-18
+KR,Kroger,BlackRock,50000000.0,7.0,2025-09-18
+KR,Kroger,Berkshire Hathaway,50000000.0,26.0,2025-09-18
+LHX,L3Harris,Vanguard Group,,12.13,2025-09-18
+LHX,L3Harris,BlackRock,17628928.0,12.13,2025-09-18
+LHX,L3Harris,T. Rowe Price,,5.0,2025-09-18
+LH,Labcorp,Vanguard Group,9745265.0,,2025-09-18
+LH,Labcorp,BlackRock,9151775.0,,2025-09-18
+LRCX,Lam Research,Vanguard Group,11711468.0,9.09,2025-09-18
+LRCX,Lam Research,BlackRock,11777978.0,,2025-09-18
+LW,Lamb Weston,Vanguard Group,16634329.0,,2025-09-18
+LW,Lamb Weston,BlackRock,8891160.0,,2025-09-18
+LDOS,Leidos,Vanguard Group,15405579.0,,2025-09-18
+LDOS,Leidos,BlackRock,15405579.0,,2025-09-18
+LEN,Lennar,Vanguard Group,,5.9,2025-09-18
+LEN,Lennar,BlackRock,,11.8,2025-09-18
+LEN,Lennar,Capital Group,1211459.0,,2025-09-18
+LII,Lennox International,Vanguard Group,2863070.0,,2025-09-18
+LII,Lennox International,BlackRock,2863070.0,,2025-09-18
+LLY,Lilly (Eli),Vanguard Group,96891978.0,,2025-09-18
+LLY,Lilly (Eli),BlackRock,71604696.0,,2025-09-18
+LIN,Linde plc,BlackRock,,9.4,2025-09-18
+LIN,Linde plc,Capital Group,,7.8,2025-09-18
+LKQ,LKQ Corporation,Vanguard Group,30240597.0,,2025-09-18
+LKQ,LKQ Corporation,BlackRock,26679293.0,,2025-09-18
+L,Loews Corporation,BlackRock,,7.8,2025-09-18
+L,Loews Corporation,JPMorgan,14595959.0,6.9,2025-09-18
+LOW,Lowe's,Vanguard Group,51015444.0,,2025-09-18
+LOW,Lowe's,BlackRock,39882058.0,,2025-09-18
+LULU,Lululemon Athletica,Vanguard Group,13324642.0,,2025-09-18
+LULU,Lululemon Athletica,BlackRock,9153642.0,,2025-09-18
+LULU,Lululemon Athletica,Fidelity,13218280.0,,2025-09-18
+LYB,LyondellBasell,Vanguard Group,217231246.0,20.2,2025-09-18
+LYB,LyondellBasell,BlackRock,217231246.0,9.7,2025-09-18
+LYB,LyondellBasell,JPMorgan,217231246.0,,2025-09-18
+MTB,M&T Bank,Vanguard Group,19433884.0,,2025-09-18
+MTB,M&T Bank,BlackRock,14071757.0,,2025-09-18
+MTB,M&T Bank,State Street,13109596.0,,2025-09-18
+MTB,M&T Bank,Fidelity,19433884.0,,2025-09-18
+MPC,Marathon Petroleum,Vanguard Group,33521556.0,,2025-09-18
+MPC,Marathon Petroleum,BlackRock,453967.0,,2025-09-18
+MPC,Marathon Petroleum,State Street,30922841.0,,2025-09-18
+MKTX,MarketAxess,BlackRock,,12.17,2025-09-18
+MKTX,MarketAxess,Fidelity,,5.54,2025-09-18
+MKTX,MarketAxess,T. Rowe Price,,6.67,2025-09-18
+MAR,Marriott International,BlackRock,,13.08,2025-09-18
+MMC,Marsh McLennan,Vanguard Group,43794070.0,,2025-09-18
+MMC,Marsh McLennan,BlackRock,40997160.0,,2025-09-18
+MLM,Martin Marietta Materials,Vanguard Group,7168589.0,,2025-09-18
+MLM,Martin Marietta Materials,BlackRock,4113718.0,,2025-09-18
+MAS,Masco,Vanguard Group,25579469.0,7.4,2025-09-18
+MAS,Masco,BlackRock,16512936.0,7.4,2025-09-18
+MTCH,Match Group,Vanguard Group,31942223.0,,2025-09-18
+MTCH,Match Group,BlackRock,15721607.0,,2025-09-18
+MTCH,Match Group,State Street,17673851.0,,2025-09-18
+MCD,McDonald's,Vanguard Group,69043882.0,9.39,2025-09-18
+MCD,McDonald's,BlackRock,69043882.0,2.18,2025-09-18
+MCK,McKesson Corporation,Vanguard Group,12145675.0,,2025-09-18
+MCK,McKesson Corporation,BlackRock,9207960.0,,2025-09-18
+MDT,Medtronic,Vanguard Group,124637584.0,,2025-09-18
+MDT,Medtronic,BlackRock,120775474.0,,2025-09-18
+MRK,Merck & Co.,Vanguard Group,253257639.0,,2025-09-18
+MRK,Merck & Co.,BlackRock,201836434.0,10.04,2025-09-18
+META,Meta Platforms,Vanguard Group,127679291.0,,2025-09-18
+META,Meta Platforms,BlackRock,902686.0,,2025-09-18
+META,Meta Platforms,Fidelity,134012721.0,,2025-09-18
+MET,MetLife,Vanguard Group,110760381.0,,2025-09-18
+MET,MetLife,BlackRock,52733080.0,,2025-09-18
+MTD,Mettler Toledo,Vanguard Group,2513052.0,,2025-09-18
+MTD,Mettler Toledo,BlackRock,2109546.0,11.6,2025-09-18
+MGM,MGM Resorts,Vanguard Group,64723602.0,,2025-09-18
+MGM,MGM Resorts,BlackRock,30476791.0,10.77,2025-09-18
+MCHP,Microchip Technology,Vanguard Group,66660817.0,,2025-09-18
+MCHP,Microchip Technology,BlackRock,50719406.0,,2025-09-18
+MCHP,Microchip Technology,State Street,50719406.0,,2025-09-18
+MU,Micron Technology,Vanguard Group,94984500.0,,2025-09-18
+MU,Micron Technology,BlackRock,85904256.0,,2025-09-18
+MSFT,Microsoft,Vanguard Group,664882153.0,,2025-09-18
+MSFT,Microsoft,BlackRock,540020228.0,8.95,2025-09-18
+MAA,Mid-America Apartment Communities,Vanguard Group,18751852.0,29.0,2025-09-18
+MAA,Mid-America Apartment Communities,BlackRock,14232284.0,46.0,2025-09-18
+MAA,Mid-America Apartment Communities,State Street,7747060.0,9.46,2025-09-18
+MRNA,Moderna,Vanguard Group,39036765.0,,2025-09-18
+MRNA,Moderna,BlackRock,25301057.0,,2025-09-18
+MHK,Mohawk Industries,JPMorgan,4350.0,,2025-09-18
+MOH,Molina Healthcare,Vanguard Group,6585954.0,,2025-09-18
+MOH,Molina Healthcare,BlackRock,4877403.0,,2025-09-18
+MOH,Molina Healthcare,Capital Group,3490747.0,,2025-09-18
+TAP,Molson Coors Beverage Company,Vanguard Group,,6.93,2025-09-18
+MDLZ,Mondelez International,Vanguard Group,,7.6,2025-09-18
+MDLZ,Mondelez International,BlackRock,,5.0,2025-09-18
+MPWR,Monolithic Power Systems,Vanguard Group,5464066.0,1.0,2025-09-18
+MPWR,Monolithic Power Systems,BlackRock,4674772.0,1.0,2025-09-18
+MPWR,Monolithic Power Systems,Fidelity,3519372.0,1.0,2025-09-18
+MNST,Monster Beverage,Vanguard Group,63682206.0,,2025-09-18
+MCO,Moody's Corporation,Vanguard Group,14163962.0,,2025-09-18
+MCO,Moody's Corporation,BlackRock,12930024.0,,2025-09-18
+MCO,Moody's Corporation,Berkshire Hathaway,24669778.0,,2025-09-18
+MS,Morgan Stanley,Vanguard Group,,5.0,2025-09-18
+MS,Morgan Stanley,BlackRock,,5.0,2025-09-18
+MS,Morgan Stanley,State Street,,5.0,2025-09-18
+MS,Morgan Stanley,Northern Trust,26318305.0,,2025-09-18
+MOS,Mosaic Company (The),Vanguard Group,37463432.0,,2025-09-18
+MOS,Mosaic Company (The),BlackRock,28714873.0,,2025-09-18
+MSI,Motorola Solutions,BlackRock,15418918.0,,2025-09-18
+MSCI,MSCI Inc.,Vanguard Group,8683305.0,,2025-09-18
+MSCI,MSCI Inc.,BlackRock,5942793.0,,2025-09-18
+NDAQ,"Nasdaq, Inc.",Vanguard Group,52199520.0,,2025-09-18
+NDAQ,"Nasdaq, Inc.",BlackRock,30160290.0,,2025-09-18
+NDAQ,"Nasdaq, Inc.",Wellington Management,38833227.0,,2025-09-18
+NTAP,NetApp,Vanguard Group,,0.92,2025-09-18
+NTAP,NetApp,BlackRock,,0.92,2025-09-18
+NTAP,NetApp,State Street,,1.853,2025-09-18
+NFLX,Netflix,Vanguard Group,36438275.0,,2025-09-18
+NFLX,Netflix,BlackRock,36438275.0,,2025-09-18
+NFLX,Netflix,Fidelity,98926.0,,2025-09-18
+NEM,Newmont,Vanguard Group,,12.23,2025-09-18
+NEM,Newmont,BlackRock,,12.23,2025-09-18
+NKE,"Nike, Inc.",Vanguard Group,109539710.0,,2025-09-18
+NKE,"Nike, Inc.",BlackRock,89773424.0,,2025-09-18
+NI,NiSource,BlackRock,,13.05,2025-09-18
+NI,NiSource,State Street,,10.5,2025-09-18
+NDSN,Nordson Corporation,Vanguard Group,6069686.0,,2025-09-18
+NDSN,Nordson Corporation,BlackRock,3855103.0,,2025-09-18
+NDSN,Nordson Corporation,Northern Trust,,11.5,2025-09-18
+NSC,Norfolk Southern,Vanguard Group,18534987.0,,2025-09-18
+NSC,Norfolk Southern,BlackRock,14512992.0,,2025-09-18
+NTRS,Northern Trust,Vanguard Group,120000.0,8.0,2025-09-18
+NTRS,Northern Trust,State Street,,8.0,2025-09-18
+NTRS,Northern Trust,Fidelity,23376334.0,11.9,2025-09-18
+NTRS,Northern Trust,JPMorgan,,8.0,2025-09-18
+NTRS,Northern Trust,Bank of New York Mellon,,8.0,2025-09-18
+NOC,Northrop Grumman,Vanguard Group,12107227.0,,2025-09-18
+NOC,Northrop Grumman,BlackRock,230000.0,,2025-09-18
+NOC,Northrop Grumman,State Street,182400.0,,2025-09-18
+NOC,Northrop Grumman,Capital Group,163649.0,,2025-09-18
+NCLH,Norwegian Cruise Line Holdings,Vanguard Group,,12.6,2025-09-18
+NCLH,Norwegian Cruise Line Holdings,BlackRock,24870986.0,11.1,2025-09-18
+NRG,NRG Energy,Vanguard Group,28275337.0,,2025-09-18
+NRG,NRG Energy,BlackRock,19697644.0,,2025-09-18
+NRG,NRG Energy,State Street,14052851.0,,2025-09-18
+NVDA,Nvidia,Vanguard Group,2045049380.0,,2025-09-18
+NVDA,Nvidia,BlackRock,2045049380.0,,2025-09-18
+NVR,"NVR, Inc.",Vanguard Group,352425.0,,2025-09-18
+NVR,"NVR, Inc.",BlackRock,311908.0,,2025-09-18
+NXPI,NXP Semiconductors,Vanguard Group,18347843.0,20.0,2025-09-18
+NXPI,NXP Semiconductors,BlackRock,19936584.0,,2025-09-18
+NXPI,NXP Semiconductors,Fidelity,25743024.0,,2025-09-18
+NXPI,NXP Semiconductors,JPMorgan,25743024.0,,2025-09-18
+ORLY,O’Reilly Automotive,Vanguard Group,5008337.0,23.28,2025-09-18
+ORLY,O’Reilly Automotive,BlackRock,4056813.0,23.28,2025-09-18
+OXY,Occidental Petroleum,Berkshire Hathaway,,5.0,2025-09-18
+OMC,Omnicom Group,Vanguard Group,,47.53,2025-09-18
+OMC,Omnicom Group,BlackRock,,47.53,2025-09-18
+OMC,Omnicom Group,State Street,,47.53,2025-09-18
+OMC,Omnicom Group,Wellington Management,,47.53,2025-09-18
+ON,ON Semiconductor,Vanguard Group,64320349.0,,2025-09-18
+ON,ON Semiconductor,BlackRock,50341366.0,,2025-09-18
+ON,ON Semiconductor,Fidelity,64320349.0,,2025-09-18
+ORCL,Oracle Corporation,Vanguard Group,149688484.0,,2025-09-18
+PCAR,Paccar,Vanguard Group,36727292.0,,2025-09-18
+PCAR,Paccar,BlackRock,36727292.0,,2025-09-18
+PCAR,Paccar,Capital Group,,4.0,2025-09-18
+PKG,Packaging Corporation of America,Vanguard Group,11241189.0,,2025-09-18
+PKG,Packaging Corporation of America,BlackRock,11241189.0,,2025-09-18
+PKG,Packaging Corporation of America,JPMorgan,,4.0,2025-09-18
+PKG,Packaging Corporation of America,Northern Trust,,4.0,2025-09-18
+PLTR,Palantir Technologies,Vanguard Group,221460945.0,,2025-09-18
+PLTR,Palantir Technologies,BlackRock,158217849.0,,2025-09-18
+PANW,Palo Alto Networks,Vanguard Group,236236236.0,1.0,2025-09-18
+PANW,Palo Alto Networks,BlackRock,27568500.0,1.0,2025-09-18
+PANW,Palo Alto Networks,Fidelity,194194194.0,,2025-09-18
+PH,Parker Hannifin,Vanguard Group,10460755.0,1.0,2025-09-18
+PH,Parker Hannifin,BlackRock,10460755.0,1.0,2025-09-18
+PAYX,Paychex,Vanguard Group,30417301.0,,2025-09-18
+PAYX,Paychex,BlackRock,27959696.0,,2025-09-18
+PAYC,Paycom,BlackRock,,7.0,2025-09-18
+PYPL,PayPal,Vanguard Group,90024391.0,,2025-09-18
+PYPL,PayPal,BlackRock,72523555.0,9.21,2025-09-18
+PNR,Pentair,Vanguard Group,19916751.0,,2025-09-18
+PNR,Pentair,BlackRock,16648354.0,,2025-09-18
+PNR,Pentair,State Street,9209527.0,,2025-09-18
+PNR,Pentair,Fidelity,525549.0,,2025-09-18
+PEP,PepsiCo,Vanguard Group,49154.0,1.0,2025-09-18
+PEP,PepsiCo,BlackRock,148150152.0,9.6,2025-09-18
+PEP,PepsiCo,T. Rowe Price,85163.0,,2025-09-18
+PEP,PepsiCo,JPMorgan,8150152.0,,2025-09-18
+PFE,Pfizer,BlackRock,434748255.0,,2025-09-18
+PFE,Pfizer,Bank of New York Mellon,,28.0,2025-09-18
+PCG,PG&E Corporation,Vanguard Group,248207725.0,,2025-09-18
+PCG,PG&E Corporation,BlackRock,153949375.0,,2025-09-18
+PCG,PG&E Corporation,Fidelity,190204571.0,,2025-09-18
+PM,Philip Morris International,Vanguard Group,136061.0,,2025-09-18
+PM,Philip Morris International,BlackRock,,6.7,2025-09-18
+PSX,Phillips 66,Vanguard Group,39690299.0,,2025-09-18
+PSX,Phillips 66,BlackRock,34996228.0,,2025-09-18
+PSX,Phillips 66,State Street,29374604.0,,2025-09-18
+PNW,Pinnacle West Capital,Vanguard Group,14282050.0,,2025-09-18
+PNW,Pinnacle West Capital,BlackRock,11691348.0,,2025-09-18
+PNW,Pinnacle West Capital,State Street,6864993.0,,2025-09-18
+PNW,Pinnacle West Capital,Capital Group,14282050.0,,2025-09-18
+PNC,PNC Financial Services,Vanguard Group,,5.0,2025-09-18
+PNC,PNC Financial Services,T. Rowe Price,,24.2,2025-09-18
+POOL,Pool Corporation,Vanguard Group,4444257.0,,2025-09-18
+POOL,Pool Corporation,BlackRock,3368822.0,,2025-09-18
+PPG,PPG Industries,Vanguard Group,28611578.0,19.29,2025-09-18
+PPG,PPG Industries,BlackRock,19546603.0,,2025-09-18
+PPG,PPG Industries,State Street,11719387.0,19.29,2025-09-18
+PPL,PPL Corporation,Fidelity,,3.846,2025-09-18
+PFG,Principal Financial Group,Vanguard Group,62038.0,12.64,2025-09-18
+PFG,Principal Financial Group,BlackRock,62038.0,12.64,2025-09-18
+PG,Procter & Gamble,Vanguard Group,224920035.0,6.65,2025-09-18
+PG,Procter & Gamble,BlackRock,155762299.0,,2025-09-18
+PGR,Progressive Corporation,Vanguard Group,51466044.0,,2025-09-18
+PGR,Progressive Corporation,BlackRock,52606862.0,,2025-09-18
+PLD,Prologis,Vanguard Group,119484352.0,,2025-09-18
+PLD,Prologis,BlackRock,,6.0,2025-09-18
+PRU,Prudential Financial,Vanguard Group,42287607.0,9.0,2025-09-18
+PRU,Prudential Financial,BlackRock,32541140.0,9.0,2025-09-18
+PHM,PulteGroup,Vanguard Group,24792886.0,,2025-09-18
+PHM,PulteGroup,BlackRock,21338135.0,,2025-09-18
+PWR,Quanta Services,BlackRock,,11.0,2025-09-18
+PWR,Quanta Services,JPMorgan,,7.5,2025-09-18
+QCOM,Qualcomm,Vanguard Group,111912584.0,,2025-09-18
+QCOM,Qualcomm,BlackRock,92564761.0,,2025-09-18
+DGX,Quest Diagnostics,Vanguard Group,13575974.0,2.0,2025-09-18
+DGX,Quest Diagnostics,BlackRock,13575974.0,10.0,2025-09-18
+RL,Ralph Lauren Corporation,Vanguard Group,5285407.0,,2025-09-18
+RL,Ralph Lauren Corporation,BlackRock,2376511.0,,2025-09-18
+RJF,Raymond James Financial,Vanguard Group,22296990.0,,2025-09-18
+RJF,Raymond James Financial,Wellington Management,11292257.0,,2025-09-18
+RJF,Raymond James Financial,Northern Trust,,32.234,2025-09-18
+RJF,Raymond James Financial,Bank of New York Mellon,,30.0,2025-09-18
+RTX,RTX Corporation,Vanguard Group,118479159.0,8.0,2025-09-18
+RTX,RTX Corporation,BlackRock,112964059.0,8.5,2025-09-18
+RTX,RTX Corporation,State Street,237237238.0,2.0,2025-09-18
+RTX,RTX Corporation,T. Rowe Price,237237238.0,,2025-09-18
+RTX,RTX Corporation,Capital Group,98855549.0,7.4,2025-09-18
+O,Realty Income,BlackRock,139236506.0,,2025-09-18
+O,Realty Income,State Street,91615098.0,,2025-09-18
+REG,Regency Centers,Vanguard Group,28058356.0,,2025-09-18
+REG,Regency Centers,BlackRock,21944801.0,15.19,2025-09-18
+REG,Regency Centers,State Street,12892463.0,9.21,2025-09-18
+REG,Regency Centers,T. Rowe Price,10269343.0,5.9,2025-09-18
+REG,Regency Centers,JPMorgan,10843223.0,6.98,2025-09-18
+REGN,Regeneron Pharmaceuticals,Vanguard Group,147149152.0,,2025-09-18
+REGN,Regeneron Pharmaceuticals,BlackRock,235235236.0,2.0,2025-09-18
+REGN,Regeneron Pharmaceuticals,Fidelity,90164.0,,2025-09-18
+REGN,Regeneron Pharmaceuticals,JPMorgan,147149152.0,,2025-09-18
+RF,Regions Financial Corporation,BlackRock,88029893.0,,2025-09-18
+RF,Regions Financial Corporation,State Street,88029893.0,,2025-09-18
+RSG,Republic Services,Vanguard Group,18153236.0,,2025-09-18
+RSG,Republic Services,BlackRock,19687793.0,,2025-09-18
+RMD,ResMed,Vanguard Group,929864.0,,2025-09-18
+RMD,ResMed,BlackRock,929864.0,,2025-09-18
+RVTY,Revvity,Vanguard Group,14177103.0,,2025-09-18
+RVTY,Revvity,BlackRock,8686672.0,,2025-09-18
+RVTY,Revvity,T. Rowe Price,6479239.0,,2025-09-18
+ROK,Rockwell Automation,Vanguard Group,9927401.0,8.7,2025-09-18
+ROK,Rockwell Automation,BlackRock,128130133.0,1.0,2025-09-18
+ROK,Rockwell Automation,T. Rowe Price,13610512.0,11.88,2025-09-18
+ROL,"Rollins, Inc.",Vanguard Group,32226294.0,,2025-09-18
+ROL,"Rollins, Inc.",BlackRock,28515437.0,,2025-09-18
+ROP,Roper Technologies,Vanguard Group,9946612.0,,2025-09-18
+ROP,Roper Technologies,BlackRock,9638792.0,,2025-09-18
+ROP,Roper Technologies,T. Rowe Price,6537372.0,,2025-09-18
+ROST,Ross Stores,Vanguard Group,28569440.0,,2025-09-18
+ROST,Ross Stores,BlackRock,27431592.0,,2025-09-18
+ROST,Ross Stores,T. Rowe Price,19592222.0,,2025-09-18
+ROST,Ross Stores,JPMorgan,19366205.0,,2025-09-18
+RCL,Royal Caribbean Group,Vanguard Group,25813725.0,10.4,2025-09-18
+RCL,Royal Caribbean Group,BlackRock,16222105.0,6.7,2025-09-18
+RCL,Royal Caribbean Group,Capital Group,28233528.0,,2025-09-18
+CRM,Salesforce,Vanguard Group,83624885.0,,2025-09-18
+CRM,Salesforce,BlackRock,83624885.0,,2025-09-18
+CRM,Salesforce,State Street,72882619.0,,2025-09-18
+SBAC,SBA Communications,Vanguard Group,17279798.0,9.4,2025-09-18
+SBAC,SBA Communications,BlackRock,10119014.0,,2025-09-18
+SLB,Schlumberger,Vanguard Group,51161.0,3.0,2025-09-18
+SLB,Schlumberger,BlackRock,51161.0,10.1,2025-09-18
+SLB,Schlumberger,State Street,51161.0,7.3,2025-09-18
+SLB,Schlumberger,T. Rowe Price,51161.0,5.7,2025-09-18
+STX,Seagate Technology,Vanguard Group,18902646.0,,2025-09-18
+STX,Seagate Technology,BlackRock,17890283.0,,2025-09-18
+STX,Seagate Technology,Capital Group,224599.0,,2025-09-18
+SRE,Sempra,BlackRock,,9.7,2025-09-18
+SRE,Sempra,State Street,,5.3,2025-09-18
+SRE,Sempra,Capital Group,,9.7,2025-09-18
+SRE,Sempra,Wellington Management,,8.6,2025-09-18
+NOW,ServiceNow,Vanguard Group,18118346.0,,2025-09-18
+NOW,ServiceNow,BlackRock,18250532.0,,2025-09-18
+SHW,Sherwin-Williams,BlackRock,,6.7,2025-09-18
+SHW,Sherwin-Williams,State Street,,6.4,2025-09-18
+SPG,Simon Property Group,Vanguard Group,45707505.0,6.56,2025-09-18
+SPG,Simon Property Group,BlackRock,38983984.0,6.56,2025-09-18
+SPG,Simon Property Group,State Street,22791960.0,6.56,2025-09-18
+SPG,Simon Property Group,Northern Trust,,2.48,2025-09-18
+SWKS,Skyworks Solutions,Vanguard Group,20341287.0,,2025-09-18
+SWKS,Skyworks Solutions,BlackRock,16129698.0,,2025-09-18
+SJM,J.M. Smucker Company (The),Vanguard Group,13471395.0,,2025-09-18
+SJM,J.M. Smucker Company (The),BlackRock,8233483.0,12.7,2025-09-18
+SJM,J.M. Smucker Company (The),State Street,6932086.0,7.7,2025-09-18
+SW,Smurfit Westrock,Vanguard Group,78648802.0,15.07,2025-09-18
+SW,Smurfit Westrock,BlackRock,41566832.0,15.07,2025-09-18
+SNA,Snap-on,Vanguard Group,6430977.0,,2025-09-18
+SNA,Snap-on,BlackRock,6430977.0,,2025-09-18
+SOLV,Solventum,Vanguard Group,10606905.0,,2025-09-18
+SOLV,Solventum,BlackRock,34369190.0,,2025-09-18
+LUV,Southwest Airlines,Vanguard Group,65421331.0,,2025-09-18
+LUV,Southwest Airlines,BlackRock,32943061.0,,2025-09-18
+LUV,Southwest Airlines,State Street,40639399.0,,2025-09-18
+SWK,Stanley Black & Decker,BlackRock,,11.8,2025-09-18
+SWK,Stanley Black & Decker,State Street,,8.8,2025-09-18
+SWK,Stanley Black & Decker,T. Rowe Price,,12.1,2025-09-18
+SBUX,Starbucks,Vanguard Group,,32.49,2025-09-18
+SBUX,Starbucks,BlackRock,,2.11,2025-09-18
+STLD,Steel Dynamics,Vanguard Group,18282121.0,18.49,2025-09-18
+STLD,Steel Dynamics,BlackRock,11907020.0,18.49,2025-09-18
+STE,Steris,Vanguard Group,11864459.0,,2025-09-18
+STE,Steris,BlackRock,9105204.0,12.07,2025-09-18
+SYK,Stryker Corporation,Vanguard Group,31149173.0,,2025-09-18
+SYK,Stryker Corporation,BlackRock,24924572.0,,2025-09-18
+SMCI,Supermicro,Vanguard Group,61946070.0,,2025-09-18
+SMCI,Supermicro,BlackRock,41338350.0,,2025-09-18
+SYF,Synchrony Financial,Vanguard Group,53197772.0,,2025-09-18
+SYF,Synchrony Financial,BlackRock,44534680.0,,2025-09-18
+SNPS,Synopsys,Vanguard Group,13551037.0,,2025-09-18
+SNPS,Synopsys,BlackRock,12895933.0,,2025-09-18
+SYY,Sysco,BlackRock,,11.11,2025-09-18
+SYY,Sysco,State Street,,6.91,2025-09-18
+TROW,T. Rowe Price,BlackRock,,25.0,2025-09-18
+TROW,T. Rowe Price,State Street,231231232.0,8.78,2025-09-18
+TROW,T. Rowe Price,JPMorgan,40192218.0,24.0,2025-09-18
+TROW,T. Rowe Price,Invesco,,31.0,2025-09-18
+TROW,T. Rowe Price,Northern Trust,,27.0,2025-09-18
+TPR,"Tapestry, Inc.",Vanguard Group,233758.0,1.0,2025-09-18
+TPR,"Tapestry, Inc.",BlackRock,14704452.0,,2025-09-18
+TPR,"Tapestry, Inc.",Fidelity,14704452.0,,2025-09-18
+TRGP,Targa Resources,Vanguard Group,26814175.0,,2025-09-18
+TRGP,Targa Resources,BlackRock,20030896.0,12.32,2025-09-18
+TRGP,Targa Resources,State Street,14542581.0,9.21,2025-09-18
+TRGP,Targa Resources,Wellington Management,12828324.0,6.68,2025-09-18
+TEL,TE Connectivity,Vanguard Group,32378987.0,11.02,2025-09-18
+TEL,TE Connectivity,BlackRock,24039941.0,11.02,2025-09-18
+TEL,TE Connectivity,T. Rowe Price,21939834.0,11.02,2025-09-18
+TDY,Teledyne Technologies,BlackRock,4555265.0,,2025-09-18
+TDY,Teledyne Technologies,T. Rowe Price,5516154.0,,2025-09-18
+TSLA,"Tesla, Inc.",Vanguard Group,,3.0,2025-09-18
+TSLA,"Tesla, Inc.",BlackRock,,3.0,2025-09-18
+TSLA,"Tesla, Inc.",State Street,,3.0,2025-09-18
+TXN,Texas Instruments,Vanguard Group,91377364.0,,2025-09-18
+TXN,Texas Instruments,BlackRock,91377364.0,,2025-09-18
+TXN,Texas Instruments,Northern Trust,,25.0,2025-09-18
+TPL,Texas Pacific Land Corporation,Vanguard Group,,16.6,2025-09-18
+TPL,Texas Pacific Land Corporation,BlackRock,,8.3,2025-09-18
+TXT,Textron,Vanguard Group,12854499.0,,2025-09-18
+TXT,Textron,BlackRock,16727725.0,5.0,2025-09-18
+TXT,Textron,T. Rowe Price,16727725.0,,2025-09-18
+TMO,Thermo Fisher Scientific,Vanguard Group,32977462.0,,2025-09-18
+TMO,Thermo Fisher Scientific,BlackRock,28329861.0,,2025-09-18
+TJX,TJX Companies,Vanguard Group,96205.0,,2025-09-18
+TJX,TJX Companies,BlackRock,99658272.0,,2025-09-18
+TKO,TKO Group Holdings,Vanguard Group,6681087.0,3.2,2025-09-18
+TKO,TKO Group Holdings,BlackRock,6339199.0,4.1,2025-09-18
+TTD,Trade Desk (The),Vanguard Group,41738359.0,,2025-09-18
+TTD,Trade Desk (The),BlackRock,29571991.0,,2025-09-18
+TSCO,Tractor Supply,Vanguard Group,12804523.0,,2025-09-18
+TSCO,Tractor Supply,BlackRock,12804523.0,,2025-09-18
+TT,Trane Technologies,Vanguard Group,18712060.0,,2025-09-18
+TT,Trane Technologies,BlackRock,22569733.0,,2025-09-18
+TT,Trane Technologies,JPMorgan,14285751.0,,2025-09-18
+TDG,TransDigm Group,Vanguard Group,6168176.0,,2025-09-18
+TDG,TransDigm Group,BlackRock,3919980.0,,2025-09-18
+TRV,Travelers Companies (The),State Street,294000.0,,2025-09-18
+TRMB,Trimble Inc.,Vanguard Group,29213603.0,,2025-09-18
+TRMB,Trimble Inc.,BlackRock,29213603.0,,2025-09-18
+TFC,Truist Financial,Vanguard Group,,5.0,2025-09-18
+TFC,Truist Financial,BlackRock,,5.0,2025-09-18
+TFC,Truist Financial,JPMorgan,4003.0,,2025-09-18
+TFC,Truist Financial,Capital Group,,2.0,2025-09-18
+TYL,Tyler Technologies,Vanguard Group,4969048.0,,2025-09-18
+TYL,Tyler Technologies,BlackRock,4071227.0,,2025-09-18
+TSN,Tyson Foods,Vanguard Group,35581300.0,,2025-09-18
+TSN,Tyson Foods,BlackRock,27066209.0,,2025-09-18
+USB,U.S. Bancorp,Vanguard Group,,5.0,2025-09-18
+USB,U.S. Bancorp,BlackRock,,5.0,2025-09-18
+UBER,Uber,Vanguard Group,118131681.0,5.65,2025-09-18
+UBER,Uber,BlackRock,75371487.0,,2025-09-18
+UBER,Uber,Capital Group,241241241.0,6.66,2025-09-18
+UDR,"UDR, Inc.",Vanguard Group,50829739.0,7.1,2025-09-18
+UDR,"UDR, Inc.",BlackRock,34675552.0,7.1,2025-09-18
+UDR,"UDR, Inc.",State Street,22569005.0,7.1,2025-09-18
+ULTA,Ulta Beauty,Vanguard Group,,15.51,2025-09-18
+ULTA,Ulta Beauty,BlackRock,,15.51,2025-09-18
+ULTA,Ulta Beauty,State Street,,15.51,2025-09-18
+UNP,Union Pacific Corporation,BlackRock,42030360.0,9.65,2025-09-18
+UAL,United Airlines Holdings,Vanguard Group,,8.0,2025-09-18
+UAL,United Airlines Holdings,BlackRock,,8.0,2025-09-18
+UPS,United Parcel Service,Vanguard Group,54283579.0,,2025-09-18
+URI,United Rentals,Vanguard Group,7570603.0,7.7,2025-09-18
+URI,United Rentals,BlackRock,5193206.0,,2025-09-18
+VLO,Valero Energy,Vanguard Group,34724906.0,,2025-09-18
+VLO,Valero Energy,BlackRock,28577183.0,,2025-09-18
+VTR,Ventas,State Street,28572.0,,2025-09-18
+VTR,Ventas,Fidelity,23403411.0,,2025-09-18
+VLTO,Veralto,Vanguard Group,29199453.0,,2025-09-18
+VLTO,Veralto,BlackRock,315898.0,,2025-09-18
+VRSN,Verisign,Vanguard Group,10322372.0,,2025-09-18
+VRSN,Verisign,BlackRock,8537969.0,,2025-09-18
+VRSK,Verisk Analytics,Vanguard Group,16407114.0,,2025-09-18
+VZ,Verizon,Vanguard Group,237227216.0,35.0,2025-09-18
+VZ,Verizon,JPMorgan,,33.0,2025-09-18
+VRTX,Vertex Pharmaceuticals,Vanguard Group,22281729.0,,2025-09-18
+VRTX,Vertex Pharmaceuticals,BlackRock,21881203.0,,2025-09-18
+VTRS,Viatris,Vanguard Group,142262690.0,,2025-09-18
+VTRS,Viatris,BlackRock,142262690.0,,2025-09-18
+VTRS,Viatris,State Street,62661728.0,,2025-09-18
+VICI,Vici Properties,Vanguard Group,146919295.0,,2025-09-18
+VICI,Vici Properties,BlackRock,104544466.0,,2025-09-18
+VICI,Vici Properties,State Street,54604645.0,,2025-09-18
+VICI,Vici Properties,Capital Group,63422529.0,,2025-09-18
+V,Visa Inc.,Vanguard Group,248191.0,1.0,2025-09-18
+V,Visa Inc.,BlackRock,142140136.0,34.0,2025-09-18
+V,Visa Inc.,T. Rowe Price,142140136.0,36.33,2025-09-18
+VST,Vistra Corp.,Vanguard Group,42522598.0,,2025-09-18
+VST,Vistra Corp.,BlackRock,28343531.0,,2025-09-18
+VST,Vistra Corp.,Fidelity,28343531.0,,2025-09-18
+VMC,Vulcan Materials Company,BlackRock,,8.2,2025-09-18
+WRB,W. R. Berkley Corporation,Vanguard Group,36365397.0,,2025-09-18
+WRB,W. R. Berkley Corporation,BlackRock,,5.0,2025-09-18
+WRB,W. R. Berkley Corporation,Capital Group,,5.0,2025-09-18
+WAB,Wabtec,Vanguard Group,20014239.0,,2025-09-18
+WAB,Wabtec,BlackRock,15482645.0,,2025-09-18
+WAB,Wabtec,Fidelity,10979415.0,,2025-09-18
+DIS,Walt Disney Company (The),Vanguard Group,151434588.0,,2025-09-18
+WBD,Warner Bros. Discovery,Vanguard Group,246253532.0,,2025-09-18
+WBD,Warner Bros. Discovery,BlackRock,154407752.0,,2025-09-18
+WBD,Warner Bros. Discovery,State Street,136648651.0,,2025-09-18
+WM,Waste Management,Vanguard Group,36159856.0,,2025-09-18
+WM,Waste Management,BlackRock,28665838.0,,2025-09-18
+WAT,Waters Corporation,Vanguard Group,6837662.0,5.0,2025-09-18
+WAT,Waters Corporation,BlackRock,6837662.0,,2025-09-18
+WEC,WEC Energy Group,Vanguard Group,545123.0,,2025-09-18
+WEC,WEC Energy Group,BlackRock,41668081.0,,2025-09-18
+WEC,WEC Energy Group,State Street,28785394.0,,2025-09-18
+WELL,Welltower,Vanguard Group,85929843.0,,2025-09-18
+WELL,Welltower,BlackRock,58183233.0,,2025-09-18
+WELL,Welltower,State Street,35722839.0,,2025-09-18
+WST,West Pharmaceutical Services,Vanguard Group,9002632.0,2.31,2025-09-18
+WST,West Pharmaceutical Services,BlackRock,7778203.0,2.31,2025-09-18
+WDC,Western Digital,Vanguard Group,148148148.0,11.9,2025-09-18
+WDC,Western Digital,BlackRock,148148148.0,11.9,2025-09-18
+WDC,Western Digital,T. Rowe Price,148148148.0,8.5,2025-09-18
+WY,Weyerhaeuser,Vanguard Group,,5.79,2025-09-18
+WY,Weyerhaeuser,T. Rowe Price,,9.67,2025-09-18
+WMB,Williams Companies,Vanguard Group,128048433.0,,2025-09-18
+WMB,Williams Companies,BlackRock,114700250.0,10.49,2025-09-18
+WMB,Williams Companies,State Street,79262478.0,,2025-09-18
+WTW,Willis Towers Watson,BlackRock,459050.0,5.0,2025-09-18
+WDAY,"Workday, Inc.",BlackRock,17540102.0,,2025-09-18
+WYNN,Wynn Resorts,Vanguard Group,10862024.0,,2025-09-18
+WYNN,Wynn Resorts,BlackRock,7623440.0,,2025-09-18
+XEL,Xcel Energy,Vanguard Group,71989761.0,,2025-09-18
+XEL,Xcel Energy,BlackRock,49987090.0,,2025-09-18
+YUM,Yum! Brands,Vanguard Group,33541268.0,,2025-09-18
+YUM,Yum! Brands,BlackRock,26718863.0,,2025-09-18
+YUM,Yum! Brands,JPMorgan,21561963.0,,2025-09-18
